@@ -2,7 +2,7 @@
 <h3 align="center">Developer Driven by Curiosity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoknowssarym&label=Profile%20views&color=0e75b6&style=flat" alt="whoknowssarym" /> </p>
-
+![Profile Image](./PF.png)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoknowssarym" alt="whoknowssarym" /></a> </p>
 
 - 🌱 I’m currently learning **C++ , JavaScript/TypeScript , SQL , Python.**
